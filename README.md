@@ -67,14 +67,15 @@ def policy_iteration(P, gamma=1.0, theta=1e-10):
 
 ### 2. Policy, Value function and success rate for the Improved Policy
 
-<img width="807" height="295" alt="image" src="https://github.com/user-attachments/assets/7fcecd7c-113a-45c0-be10-97fea952bd2c" />
-<img width="498" height="150" alt="image" src="https://github.com/user-attachments/assets/c0c19c77-f695-4e2e-93f5-5e98ec5ff1a1" />
+<img width="462" height="167" alt="image" src="https://github.com/user-attachments/assets/e7bd1633-d047-4a57-b3f0-de12c8e6e67a" />
+<img width="662" height="40" alt="image" src="https://github.com/user-attachments/assets/130ebdb3-410c-471f-a35b-4f94eae89050" />
+
 
 
 ### 3. Policy, Value function and success rate after policy iteration
 
-<img width="770" height="308" alt="image" src="https://github.com/user-attachments/assets/f27a1f25-7a1e-4b82-b7c3-45360ac593b9" />
-<img width="752" height="143" alt="image" src="https://github.com/user-attachments/assets/3c1ea675-5691-4553-9103-a9be47e2ddbf" />
+<img width="482" height="151" alt="image" src="https://github.com/user-attachments/assets/057d62a4-e67e-4aa2-a003-e7f44cd6e148" />
+
 
 
 
